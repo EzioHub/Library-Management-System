@@ -183,8 +183,10 @@ connectionString="Data Source=.;Initial Catalog=LibraryDB;Integrated Security=Tr
 Library-Management-System
 │
 ├── README.md
-├── Animation.gif
-├── Architecture.png
+│
+├── Images
+│      ├── Animation.gif
+│      └── Data_Flow.png
 │
 ├── LibraryManagementSystem
 ├── Library.BLL
