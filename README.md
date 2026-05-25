@@ -6,13 +6,13 @@ This project demonstrates CRUD operations, search functionality, clean architect
 
 ## 🎬 Demo
 
-![Application Demo](Images/Animation.gif)
+![Application Demo](./Images/Animation.gif)
 
 ---
 
 ### Architecture Overview
 
-![Architecture](Images/Data_Flow.png)
+![Architecture](./Images/Data_Flow.png)
 
 ## ✨ Features
 
