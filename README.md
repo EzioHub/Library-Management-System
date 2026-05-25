@@ -4,13 +4,17 @@ A Windows Forms desktop application built with **C#**, **ADO.NET**, and **SQL Se
 
 This project demonstrates CRUD operations, search functionality, clean architecture principles, and database interaction using ADO.NET.
 
----
-
 ## 🎬 Demo
 
-![Application Demo](Animation.gif)
+![Application Demo](Images/Animation.gif)
 
 ---
+
+## 📸 Screenshots
+
+### Architecture Overview
+
+![Architecture](Images/Data_Flow.png)
 
 ## 📸 Screenshots
 
@@ -186,19 +190,15 @@ connectionString="Data Source=.;Initial Catalog=LibraryDB;Integrated Security=Tr
 ## 📂 Project Structure
 
 ```text
-Library Management System
+Library-Management-System
 │
-├── LibraryManagementSystem (UI)
-│
-├── Library.BLL
-│
-├── Library.DAL
-│
-├── SQLQuery1.sql
-│
+├── README.md
 ├── Animation.gif
+├── Architecture.png
 │
-└── README.md
+├── LibraryManagementSystem
+├── Library.BLL
+├── Library.DAL
 ```
 
 ---
