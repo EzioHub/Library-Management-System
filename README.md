@@ -10,19 +10,9 @@ This project demonstrates CRUD operations, search functionality, clean architect
 
 ---
 
-## 📸 Screenshots
-
 ### Architecture Overview
 
 ![Architecture](Images/Data_Flow.png)
-
-## 📸 Screenshots
-
-### Architecture Overview
-
-![Architecture](fbe640fa-1c2c-42fa-b52d-77fa53ba6218.png)
-
----
 
 ## ✨ Features
 
