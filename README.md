@@ -232,9 +232,8 @@ This prevents SQL Injection attacks.
 
 ## 👨‍💻 Author
 
-Your Name
+Ezio
 
 GitHub:
-
-https://github.com/YOUR_USERNAME
+https://github.com/EzioHub
 
