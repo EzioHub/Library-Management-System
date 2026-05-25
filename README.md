@@ -6,13 +6,15 @@ This project demonstrates CRUD operations, search functionality, clean architect
 
 ## 🎬 Demo
 
-![Application Demo](./Images/Animation.gif)
+## 🎬 Demo
+
+![Application Demo](Library%20Management%20System/Images/Animation.gif)
 
 ---
 
-### Architecture Overview
+## Architecture Overview
 
-![Architecture](./Images/Data_Flow.png)
+![Architecture](Library%20Management%20System/Images/Data_Flow.png)
 
 ## ✨ Features
 
