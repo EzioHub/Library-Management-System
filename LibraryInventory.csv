@@ -1,0 +1,27 @@
+BookID,Title,Author,Category,Price,Quantity
+1,Clean Code,Robert Martin,Programming,350.00,10
+2,C# in Depth,Jon Skeet,Programming,420.00,8
+3,ASP.NET Core Guide,Andrew Lock,Programming,500.00,7
+4,Entity Framework Core,Julie Lerman,Programming,450.00,5
+5,SQL Server Basics,John Smith,Database,300.00,12
+6,Database Design,James Cooper,Database,280.00,6
+7,Data Structures,Mark Allen,Computer Science,390.00,15
+8,Algorithms Fundamentals,Thomas Lee,Computer Science,420.00,9
+9,Operating Systems,David Kim,Computer Science,380.00,11
+10,Computer Networks,William Stallings,Networking,600.00,4
+11,Network Security,Michael Brown,Networking,550.00,5
+12,CCNA Guide,Cisco Academy,Networking,650.00,7
+13,Python for Beginners,Alex Johnson,Programming,250.00,14
+14,Java Fundamentals,Sarah Wilson,Programming,330.00,9
+15,Artificial Intelligence,Peter Norvig,AI,700.00,3
+16,Machine Learning Basics,Andrew Ng,AI,750.00,6
+17,Deep Learning,Ian Goodfellow,AI,850.00,2
+18,Web Development,Daniel Scott,Programming,320.00,13
+19,HTML and CSS,Kevin Powell,Programming,200.00,18
+20,JavaScript Mastery,Maximilian,Programming,450.00,8
+21,Software Engineering,Roger Pressman,Engineering,500.00,5
+22,Design Patterns,Gang of Four,Programming,580.00,4
+23,System Analysis,Dennis Wixom,Engineering,410.00,7
+24,Agile Development,Mike Cohn,Engineering,290.00,10
+25,Linux Essentials,Jason Cannon,Operating Systems,360.00,12
+26,Professional C# Portfolio,Developer AI,Education,59.99,1
