@@ -4,7 +4,7 @@ A Windows Forms desktop application built with **C#**, **ADO.NET**, and **SQL Se
 
 This project demonstrates CRUD operations, search functionality, clean architecture principles, and database interaction using ADO.NET.
 
-## 🎬 Demo
+
 
 ## 🎬 Demo
 
